@@ -237,9 +237,9 @@ jupyter notebook Part_A_Python/Project_3_Part_A_Group11.ipynb
          ▼                           ▼
 ┌─────────────────────────────────────────────┐
 │        Data Transformation Layer            │
-│  • Runtime: "2h 2m" → 122 minutes          │
-│  • Votes: "1.7M" → 1,700,000               │
-│  • Data Types: String → Int/Float          │
+│  • Runtime: "2h 2m" → 122 minutes           │
+│  • Votes: "1.7M" → 1,700,000                │
+│  • Data Types: String → Int/Float           │
 └────────────────┬────────────────────────────┘
                  │
                  ▼
