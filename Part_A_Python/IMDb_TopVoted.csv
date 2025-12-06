@@ -1,0 +1,501 @@
+movie_id,rank,title,runtime,year,rating,votes
+tt7286456,1,Joker,2h 2m,2019,8.3,1.7M
+tt4154796,2,Avengers: Endgame,3h 1m,2019,8.4,1.4M
+tt4154756,3,Avengers: Infinity War,2h 29m,2018,8.4,1.3M
+tt6751668,4,Parasite,2h 12m,2019,8.5,1.1M
+tt7131622,5,Once Upon a Time... in Hollywood,2h 41m,2019,7.6,936K
+tt1825683,6,Black Panther,2h 14m,2018,7.3,893K
+tt8946378,7,Knives Out,2h 10m,2019,7.9,837K
+tt4633694,8,Spider-Man: Into the Spider-Verse,1h 57m,2018,8.4,758K
+tt8579674,9,1917,1h 59m,2019,8.2,749K
+tt5463162,10,Deadpool 2,1h 59m,2018,7.6,729K
+tt6966692,11,Green Book,2h 10m,2018,8.2,661K
+tt6723592,12,Tenet,2h 30m,2020,7.3,648K
+tt4154664,13,Captain Marvel,2h 3m,2019,6.7,646K
+tt6644200,14,A Quiet Place,1h 30m,2018,7.5,644K
+tt1727824,15,Bohemian Rhapsody,2h 14m,2018,7.9,633K
+tt6320628,16,Spider-Man: Far from Home,2h 9m,2019,7.3,618K
+tt1270797,17,Venom,1h 52m,2018,6.6,593K
+tt1950186,18,Ford v Ferrari,2h 32m,2019,8.1,548K
+tt1477834,19,Aquaman,2h 23m,2018,6.8,546K
+tt2527338,20,Star Wars: Episode IX - The Rise of Skywalker,2h 21m,2019,6.4,530K
+tt1677720,21,Ready Player One,2h 20m,2018,7.4,530K
+tt5095030,22,Ant-Man and the Wasp,1h 58m,2018,7.0,484K
+tt2584384,23,Jojo Rabbit,1h 48m,2019,7.9,478K
+tt6146586,24,John Wick: Chapter 3 - Parabellum,2h 10m,2019,7.4,468K
+tt8772262,25,Midsommar,2h 28m,2019,7.1,468K
+tt1302006,26,The Irishman,3h 29m,2019,7.8,462K
+tt8367814,27,The Gentlemen,1h 53m,2019,7.8,445K
+tt1517451,28,A Star Is Born,2h 16m,2018,7.6,442K
+tt7784604,29,Hereditary,2h 7m,2018,7.3,440K
+tt2948372,30,Soul,1h 40m,2020,8.0,419K
+tt2737304,31,Bird Box,2h 4m,2018,6.6,414K
+tt4912910,32,Mission: Impossible - Fallout,2h 27m,2018,7.7,412K
+tt0448115,33,Shazam!,2h 12m,2019,7.0,408K
+tt3778644,34,Solo: A Star Wars Story,2h 15m,2018,6.9,402K
+tt2798920,35,Annihilation,1h 55m,2018,6.8,387K
+tt6857112,36,Us,1h 56m,2019,6.8,381K
+tt4881806,37,Jurassic World: Fallen Kingdom,2h 8m,2018,6.1,373K
+tt7653254,38,Marriage Story,2h 17m,2019,7.9,366K
+tt3606756,39,Incredibles 2,1h 58m,2018,7.5,361K
+tt5727208,40,Uncut Gems,2h 15m,2019,7.4,343K
+tt7349950,41,It: Chapter Two,2h 49m,2019,6.5,338K
+tt9243946,42,El Camino,2h 2m,2019,7.3,328K
+tt4123430,43,Fantastic Beasts: The Crimes of Grindelwald,2h 14m,2018,6.5,326K
+tt0437086,44,Alita: Battle Angel,2h 2m,2019,7.3,318K
+tt8228288,45,The Platform,1h 34m,2019,7.0,316K
+tt8332922,46,A Quiet Place Part II,1h 37m,2020,7.2,314K
+tt7975244,47,Jumanji: The Next Level,2h 3m,2019,6.6,311K
+tt6139732,48,Aladdin,2h 8m,2019,6.9,309K
+tt7349662,49,BlacKkKlansman,2h 15m,2018,7.5,308K
+tt7126948,50,Wonder Woman 1984,2h 31m,2020,5.3,307K
+tt1979376,51,Toy Story 4,1h 40m,2019,7.6,305K
+tt6823368,52,Glass,2h 9m,2019,6.6,299K
+tt7984734,53,The Lighthouse,1h 49m,2019,7.4,293K
+tt6105098,54,The Lion King,1h 58m,2019,6.8,287K
+tt8936646,55,Extraction,1h 56m,2020,6.8,284K
+tt7713068,56,Birds of Prey and the Fantabulous Emancipation of One Harley Quinn,1h 49m,2020,6.1,279K
+tt1051906,57,The Invisible Man,2h 4m,2020,7.1,278K
+tt3281548,58,Little Women,2h 15m,2019,7.8,276K
+tt2935510,59,Ad Astra,2h 3m,2019,6.5,275K
+tt2704998,60,Game Night,1h 40m,2018,6.9,271K
+tt5164214,61,Ocean's Eight,1h 50m,2018,6.3,257K
+tt5083738,62,The Favourite,1h 59m,2018,7.5,253K
+tt6806448,63,Fast & Furious Presents: Hobbs & Shaw,2h 17m,2019,6.4,252K
+tt7846844,64,Enola Holmes,2h 3m,2020,6.6,239K
+tt5606664,65,Doctor Sleep,2h 32m,2019,7.3,238K
+tt1365519,66,Tomb Raider,1h 59m,2018,6.3,238K
+tt9620292,67,Promising Young Woman,1h 53m,2020,7.5,231K
+tt6499752,68,Upgrade,1h 40m,2018,7.5,229K
+tt7798634,69,Ready or Not,1h 35m,2019,6.8,225K
+tt3741700,70,Godzilla: King of the Monsters,2h 12m,2019,6.0,224K
+tt4779682,71,The Meg,1h 53m,2018,5.7,224K
+tt6565702,72,X-Men: Dark Phoenix,1h 53m,2019,5.7,223K
+tt3766354,73,The Equalizer 2,2h 1m,2018,6.7,223K
+tt4729430,74,Klaus,1h 36m,2019,8.2,222K
+tt1027238,75,The Father,1h 37m,2020,8.2,221K
+tt1560220,76,Zombieland: Double Tap,1h 39m,2019,6.7,220K
+tt1028856,77,Another Round,1h 57m,2020,7.7,220K
+tt2873282,78,Red Sparrow,2h 20m,2018,6.6,215K
+tt1213641,79,First Man,2h 21m,2018,7.3,213K
+tt4520988,80,Frozen II,1h 43m,2019,6.8,213K
+tt6450804,81,Terminator: Dark Fate,2h 8m,2019,6.2,208K
+tt8106534,82,6 Underground,2h 8m,2019,6.1,208K
+tt9484998,83,Palm Springs,1h 30m,2020,7.4,207K
+tt7556122,84,The Old Guard,2h 5m,2020,6.7,207K
+tt2066051,85,Rocketman,2h 1m,2019,7.3,206K
+tt5104604,86,Isle of Dogs,1h 41m,2018,7.8,206K
+tt3104988,87,Crazy Rich Asians,2h,2018,6.9,205K
+tt4701182,88,Bumblebee,1h 54m,2018,6.7,204K
+tt1070874,89,The Trial of the Chicago 7,2h 9m,2020,7.7,203K
+tt5848272,90,Ralph Breaks the Internet,1h 52m,2018,7.0,200K
+tt2231461,91,Rampage,1h 47m,2018,6.1,198K
+tt9770150,92,Nomadland,1h 47m,2020,7.3,197K
+tt1502397,93,Bad Boys for Life,2h 4m,2020,6.5,194K
+tt5884052,94,Pokémon: Detective Pikachu,1h 44m,2019,6.5,194K
+tt5814060,95,The Nun,1h 36m,2018,5.4,191K
+tt7668870,96,Searching,1h 42m,2018,7.6,190K
+tt7040874,97,A Simple Favor,1h 57m,2018,6.7,188K
+tt3794354,98,Sonic the Hedgehog,1h 39m,2020,6.5,187K
+tt1618434,99,Murder Mystery,1h 37m,2019,6.1,185K
+tt5052474,100,Sicario: Day of the Soldado,2h 2m,2018,7.1,185K
+tt4500922,101,Maze Runner: The Death Cure,2h 23m,2018,6.3,184K
+tt1502407,102,Halloween,1h 46m,2018,6.5,184K
+tt7146812,103,Onward,1h 42m,2020,7.4,183K
+tt8079248,104,Yesterday,1h 56m,2019,6.8,181K
+tt6412452,105,The Ballad of Buster Scruggs,2h 13m,2018,7.2,180K
+tt6155172,106,Roma,2h 15m,2018,7.6,176K
+tt6628394,107,Bad Times at the El Royale,2h 21m,2018,7.1,176K
+tt2386490,108,How to Train Your Dragon: The Hidden World,1h 44m,2019,7.4,173K
+tt6266538,109,Vice,2h 12m,2018,7.2,172K
+tt7984766,110,The King,2h 20m,2019,7.3,171K
+tt6343314,111,Creed II,2h 10m,2018,7.1,167K
+tt4566758,112,Mulan,1h 55m,2020,5.8,166K
+tt7959026,113,The Mule,1h 56m,2018,7.0,166K
+tt7395114,114,The Devil All the Time,2h 18m,2020,7.1,165K
+tt5363618,115,Sound of Metal,2h,2019,7.7,164K
+tt1314396,116,Borat Subsequent Moviefilm,1h 35m,2020,6.6,162K
+tt2854926,117,Tag,1h 40m,2018,6.5,159K
+tt3829266,118,The Predator,1h 47m,2018,5.3,158K
+tt1488606,119,Triple Frontier,2h 5m,2019,6.5,158K
+tt2283336,120,Men in Black: International,1h 54m,2019,5.6,158K
+tt2222042,121,Love and Monsters,1h 49m,2020,6.9,156K
+tt9893250,122,I Care a Lot,1h 58m,2020,6.4,156K
+tt5886046,123,Escape Room,1h 39m,2019,6.4,156K
+tt7737786,124,Greenland,1h 59m,2020,6.4,151K
+tt1571234,125,Mortal Engines,2h 8m,2018,6.1,151K
+tt1259528,126,Den of Thieves,2h 20m,2018,7.0,150K
+tt8244784,127,The Hunt,1h 30m,2020,6.6,149K
+tt8404614,128,The Two Popes,2h 5m,2019,7.6,144K
+tt5758778,129,Skyscraper,1h 42m,2018,5.8,143K
+tt9495224,130,Black Mirror: Bandersnatch,1h 30m,2018,7.1,142K
+tt1489887,131,Booksmart,1h 42m,2019,7.1,138K
+tt8110330,132,Dil Bechara,1h 41m,2020,8.3,137K
+tt3846674,133,To All the Boys I've Loved Before,1h 39m,2018,7.0,136K
+tt2557478,134,Pacific Rim: Uprising,1h 51m,2018,5.6,135K
+tt8503618,135,Hamilton,2h 40m,2020,8.3,134K
+tt6394270,136,Bombshell,1h 49m,2019,6.8,134K
+tt7401588,137,Instant Family,1h 58m,2018,7.3,133K
+tt5164432,138,"Love, Simon",1h 50m,2018,7.5,132K
+tt1590193,139,The Commuter,1h 44m,2018,6.3,132K
+tt1018951,140,Soorarai Pottru,2h 33m,2020,8.6,130K
+tt4777008,141,Maleficent: Mistress of Evil,1h 59m,2019,6.6,129K
+tt1025100,142,Gemini Man,1h 57m,2019,5.7,129K
+tt6048922,143,Greyhound,1h 31m,2020,7.0,128K
+tt2139881,144,Long Shot,2h 5m,2019,6.8,127K
+tt8613070,145,Portrait of a Lady on Fire,2h 2m,2019,8.0,123K
+tt1226837,146,Beautiful Boy,2h,2018,7.4,121K
+tt8267604,147,Capernaum,2h 6m,2018,8.4,120K
+tt6189022,148,Angel Has Fallen,2h 1m,2019,6.4,120K
+tt2548396,149,The Cloverfield Paradox,1h 42m,2018,5.5,119K
+tt9071322,150,Dark Waters,2h 6m,2019,7.6,119K
+tt6911608,151,Mamma Mia! Here We Go Again,1h 54m,2018,6.6,118K
+tt1206885,152,Rambo: Last Blood,1h 29m,2019,6.1,117K
+tt7752126,153,Brightburn,1h 30m,2019,6.1,117K
+tt4364194,154,The Peanut Butter Falcon,1h 37m,2019,7.6,117K
+tt4530422,155,Overlord,1h 50m,2018,6.6,114K
+tt8108198,156,Andhadhun,2h 19m,2018,8.2,112K
+tt5503686,157,Hustlers,1h 50m,2019,6.3,112K
+tt1860242,158,The Highwaymen,2h 12m,2019,6.9,112K
+tt2481498,159,"Extremely Wicked, Shockingly Evil and Vile",1h 50m,2019,6.7,111K
+tt8633478,160,Run,1h 30m,2020,6.7,109K
+tt4332232,161,Fractured,1h 39m,2019,6.5,108K
+tt7838252,162,K.G.F: Chapter 1,2h 34m,2018,8.2,108K
+tt4218572,163,Widows,2h 9m,2018,6.8,108K
+tt8580274,164,Eurovision Song Contest: The Story of Fire Saga,2h 3m,2020,6.5,108K
+tt7939766,165,I'm Thinking of Ending Things,2h 14m,2020,6.5,107K
+tt1088616,166,365 Days,1h 54m,2020,3.3,106K
+tt1063345,167,Minari,1h 55m,2020,7.4,106K
+tt2274648,168,Hellboy,2h,2019,5.3,106K
+tt5774060,169,Underwater,1h 35m,2020,5.9,106K
+tt2709692,170,The Grinch,1h 25m,2018,6.4,106K
+tt7456310,171,Anna,1h 58m,2019,6.7,105K
+tt4139588,172,Polar,1h 58m,2019,6.3,105K
+tt3513548,173,Richard Jewell,2h 11m,2019,7.5,105K
+tt8629748,174,Spenser Confidential,1h 51m,2020,6.2,105K
+tt6292852,175,I Am Mother,1h 53m,2019,6.7,105K
+tt0837563,176,Pet Sematary,1h 40m,2019,5.7,103K
+tt4003440,177,The House That Jack Built,2h 32m,2018,6.8,103K
+tt6924650,178,Midway,2h 18m,2019,6.7,103K
+tt1034415,179,Suspiria,2h 32m,2018,6.7,103K
+tt7550000,180,Project Power,1h 53m,2020,6.0,102K
+tt3799232,181,The Kissing Booth,1h 45m,2018,5.9,101K
+tt8364368,182,Crawl,1h 27m,2019,6.1,101K
+tt8695030,183,The Dead Don't Die,1h 44m,2019,5.4,100K
+tt6878306,184,News of the World,1h 58m,2020,6.8,100K
+tt5028340,185,Mary Poppins Returns,2h 10m,2018,6.7,99K
+tt4682266,186,The New Mutants,1h 34m,2020,5.3,99K
+tt1413492,187,12 Strong,2h 10m,2018,6.5,99K
+tt8623904,188,Last Christmas,1h 43m,2019,6.5,99K
+tt8350360,189,Annabelle Comes Home,1h 46m,2019,5.9,99K
+tt6998518,190,Mandy,2h 1m,2018,6.5,97K
+tt7886848,191,Sadak 2,2h 13m,2020,1.2,97K
+tt5220122,192,Hotel Transylvania 3: Summer Vacation,1h 37m,2018,6.3,96K
+tt1103237,193,Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train,1h 57m,2020,8.2,94K
+tt6472976,194,Five Feet Apart,1h 56m,2019,7.2,94K
+tt8155288,195,Happy Death Day 2U,1h 40m,2019,6.2,94K
+tt8075192,196,Shoplifters,2h 1m,2018,7.9,93K
+tt1146482,197,The Social Dilemma,1h 34m,2020,7.6,93K
+tt5688932,198,Sorry to Bother You,1h 52m,2018,6.9,93K
+tt3224458,199,A Beautiful Day in the Neighborhood,1h 49m,2019,7.2,93K
+tt1053960,200,The Midnight Sky,1h 58m,2020,5.7,93K
+tt4560436,201,Mile 22,1h 34m,2018,6.1,92K
+tt6513120,202,Fighting with My Family,1h 48m,2019,7.0,92K
+tt3387520,203,Scary Stories to Tell in the Dark,1h 48m,2019,6.2,91K
+tt2531344,204,Blockers,1h 42m,2018,6.2,91K
+tt2990140,205,The Christmas Chronicles,1h 44m,2018,7.0,90K
+tt1634106,206,Bloodshot,1h 49m,2020,5.7,90K
+tt4575576,207,Christopher Robin,1h 44m,2018,7.2,89K
+tt6921996,208,Johnny English Strikes Again,1h 29m,2018,6.2,89K
+tt6977338,209,Good Boys,1h 30m,2019,6.7,88K
+tt8359848,210,Climax,1h 37m,2018,6.9,88K
+tt7638348,211,Boss Level,1h 40m,2020,6.8,87K
+tt3861390,212,Dumbo,1h 52m,2019,6.2,87K
+tt8368406,213,Vivarium,1h 37m,2019,5.9,87K
+tt1061828,214,Mank,2h 11m,2020,6.8,87K
+tt6679794,215,Outlaw King,2h 1m,2018,6.9,87K
+tt6663582,216,The Spy Who Dumped Me,1h 57m,2018,6.1,86K
+tt5613484,217,Mid90s,1h 25m,2018,7.4,86K
+tt7014006,218,Eighth Grade,1h 33m,2018,7.3,86K
+tt9866072,219,Holidate,1h 44m,2020,6.2,85K
+tt4532826,220,Robin Hood,1h 56m,2018,5.4,85K
+tt1005951,221,Unhinged,1h 30m,2020,6.0,85K
+tt5033998,222,Charlie's Angels,1h 58m,2019,5.0,84K
+tt7282468,223,Burning,2h 28m,2018,7.4,84K
+tt7775622,224,Free Solo,1h 40m,2018,8.1,84K
+tt5719748,225,Cold Pursuit,1h 59m,2019,6.2,83K
+tt3513498,226,The Lego Movie 2: The Second Part,1h 47m,2019,6.5,83K
+tt4916630,227,Just Mercy,2h 17m,2019,7.6,82K
+tt1055423,228,Dara of Jasenovac,2h 10m,2020,8.0,82K
+tt4477536,229,Fifty Shades Freed,1h 45m,2018,4.6,81K
+tt9686708,230,The King of Staten Island,2h 16m,2020,7.1,81K
+tt1137450,231,Death Wish,1h 47m,2018,6.3,81K
+tt8368512,232,The Courier,1h 52m,2020,7.2,80K
+tt1091938,233,Freaky,1h 42m,2020,6.3,80K
+tt8688634,234,21 Bridges,1h 39m,2019,6.7,80K
+tt1846589,235,Hunter Killer,2h 1m,2018,6.6,79K
+tt5726086,236,Insidious: The Last Key,1h 43m,2018,5.7,78K
+tt8291224,237,Uri: The Surgical Strike,2h 18m,2019,8.2,78K
+tt5461944,238,Hotel Mumbai,2h 3m,2018,7.6,77K
+tt6673612,239,Dolittle,1h 41m,2020,5.6,77K
+tt6133466,240,The First Purge,1h 37m,2018,5.2,77K
+tt2452244,241,Isn't It Romantic,1h 29m,2019,5.9,76K
+tt5113040,242,The Secret Life of Pets 2,1h 26m,2019,6.4,76K
+tt6902676,243,Guns Akimbo,1h 38m,2019,6.3,76K
+tt9731534,244,The Night House,1h 47m,2020,6.4,76K
+tt8637428,245,The Farewell,1h 40m,2019,7.5,75K
+tt6850820,246,Peppermint,1h 41m,2018,6.5,75K
+tt1028027,247,Coolie No. 1,2h 14m,2020,4.2,75K
+tt4971344,248,The Sisters Brothers,2h 2m,2018,6.9,75K
+tt6079516,249,I See You,1h 38m,2019,6.8,74K
+tt4126476,250,After,1h 45m,2019,5.3,74K
+tt6475714,251,Monster Hunter,1h 43m,2020,5.2,73K
+tt5304992,252,Set It Up,1h 45m,2018,6.5,73K
+tt1165520,253,Riders of Justice,1h 56m,2020,7.5,73K
+tt6772950,254,Truth or Dare,1h 40m,2018,5.2,72K
+tt8239946,255,Tumbbad,1h 48m,2018,8.2,72K
+tt4687108,256,In the Tall Grass,1h 41m,2019,5.5,72K
+tt4244998,257,Alpha,1h 36m,2018,6.6,71K
+tt9052870,258,Chhichhore,2h 23m,2019,8.3,71K
+tt1298644,259,The Hustle,1h 33m,2019,5.5,70K
+tt6908274,260,Mirage,2h 8m,2018,7.4,70K
+tt7958736,261,Ma,1h 39m,2019,5.6,70K
+tt1288846,262,My Octopus Teacher,1h 25m,2020,8.1,69K
+tt9214832,263,Emma.,2h 4m,2020,6.7,69K
+tt3892172,264,Leave No Trace,1h 49m,2018,7.1,69K
+tt6398184,265,Downton Abbey,2h 2m,2019,7.4,69K
+tt2388771,266,Mowgli: Legend of the Jungle,1h 44m,2018,6.5,69K
+tt7043012,267,Velvet Buzzsaw,1h 53m,2019,5.7,68K
+tt6742252,268,The Guilty,1h 25m,2018,7.5,68K
+tt8526872,269,Dolemite Is My Name,1h 58m,2019,7.2,67K
+tt8784956,270,Ava,1h 36m,2020,5.5,67K
+tt9426210,271,Weathering with You,1h 52m,2019,7.5,67K
+tt1068226,272,Hubie Halloween,1h 43m,2020,5.3,67K
+tt8291806,273,Pain and Glory,1h 53m,2019,7.5,66K
+tt6452574,274,Sanju,2h 35m,2018,7.6,66K
+tt8110640,275,In the Shadow of the Moon,1h 55m,2019,6.2,66K
+tt7374948,276,Always Be My Maybe,1h 41m,2019,6.7,66K
+tt5610554,277,Tully,1h 35m,2018,6.9,66K
+tt0385887,278,Motherless Brooklyn,2h 24m,2019,6.8,65K
+tt6306064,279,Adrift,1h 36m,2018,6.6,65K
+tt6217306,280,Apostle,2h 10m,2018,6.3,65K
+tt6543652,281,Cold War,1h 29m,2018,7.5,65K
+tt4913966,282,The Curse of La Llorona,1h 33m,2019,5.3,64K
+tt5073642,283,Color Out of Space,1h 51m,2019,6.1,63K
+tt7347846,284,The Lodge,1h 48m,2019,6.0,63K
+tt0983946,285,Fantasy Island,1h 49m,2020,4.9,63K
+tt7504726,286,The Call of the Wild,1h 40m,2020,6.7,63K
+tt5246700,287,How It Ends,1h 53m,2018,5.1,62K
+tt1838556,288,Honest Thief,1h 39m,2020,6.0,62K
+tt6820256,289,Arctic,1h 38m,2018,6.8,62K
+tt4463894,290,Shaft,1h 51m,2019,6.4,62K
+tt5814534,291,Spies in Disguise,1h 42m,2019,6.8,62K
+tt5834262,292,Hotel Artemis,1h 34m,2018,6.1,61K
+tt3201640,293,Extinction,1h 35m,2018,5.8,61K
+tt1043150,294,Miracle in Cell No. 7,2h 12m,2019,8.2,61K
+tt6491178,295,Dragged Across Concrete,2h 39m,2018,6.9,61K
+tt1051422,296,Ma Rainey's Black Bottom,1h 34m,2020,6.9,60K
+tt5968394,297,Captive State,1h 49m,2019,6.0,60K
+tt5116302,298,Togo,1h 53m,2019,7.9,60K
+tt6772802,299,Hillbilly Elegy,1h 56m,2020,6.7,60K
+tt8663516,300,Child's Play,1h 30m,2019,5.7,60K
+tt6791096,301,I Feel Pretty,1h 50m,2018,5.7,60K
+tt1035092,302,Laxmii,2h 21m,2020,2.6,60K
+tt0800325,303,The Dirt,1h 47m,2019,7.0,59K
+tt5431890,304,Official Secrets,1h 52m,2019,7.3,59K
+tt1116147,305,Pieces of a Woman,2h 6m,2020,7.0,59K
+tt2850386,306,The Croods: A New Age,1h 35m,2020,6.9,59K
+tt2328900,307,Mary Queen of Scots,2h 4m,2018,6.3,59K
+tt2119543,308,The House with a Clock in Its Walls,1h 45m,2018,6.1,59K
+tt5697572,309,Cats,1h 50m,2019,2.8,58K
+tt4595882,310,Can You Ever Forgive Me?,1h 46m,2018,7.1,58K
+tt1102427,311,The Babysitter: Killer Queen,1h 41m,2020,5.8,58K
+tt5691670,312,Under the Silver Lake,2h 19m,2018,6.5,58K
+tt7549996,313,Judy,1h 58m,2019,6.8,58K
+tt7060344,314,Raatchasan,2h 26m,2018,8.3,58K
+tt5865326,315,The Laundromat,1h 36m,2019,6.3,57K
+tt7139936,316,A Rainy Day in New York,1h 32m,2019,6.4,57K
+tt6259380,317,Code 8,1h 38m,2019,6.1,57K
+tt9777644,318,Da 5 Bloods,2h 34m,2020,6.5,57K
+tt1289403,319,The Guernsey Literary and Potato Peel Pie Society,2h 4m,2018,7.3,57K
+tt7825208,320,Marighella,2h 35m,2019,7.1,57K
+tt7668842,321,Enes Batur: Imagination or Reality?,1h 50m,2018,2.0,57K
+tt5783956,322,When We First Met,1h 37m,2018,6.4,56K
+tt1086064,323,Bill & Ted Face the Music,1h 31m,2020,5.9,56K
+tt8544498,324,The Way Back,1h 48m,2020,6.7,56K
+tt8236336,325,The Report,1h 59m,2019,7.2,55K
+tt5177088,326,The Girl in the Spider's Web,1h 55m,2018,6.1,55K
+tt7315484,327,The Silence,1h 30m,2019,5.4,55K
+tt7125860,328,If Beale Street Could Talk,1h 59m,2018,7.1,55K
+tt7557108,329,Saint Maud,1h 24m,2019,6.6,54K
+tt9412098,330,Fyre,1h 37m,2019,7.2,54K
+tt5932728,331,The Professor and the Madman,2h 4m,2019,7.2,54K
+tt7734218,332,Stuber,1h 33m,2019,6.2,54K
+tt8508734,333,His House,1h 33m,2020,6.4,53K
+tt1062086,334,#Alive,1h 38m,2020,6.3,53K
+tt5563334,335,The Good Liar,1h 49m,2019,6.7,53K
+tt7153766,336,Unsane,1h 38m,2018,6.4,53K
+tt7772580,337,The Perfection,1h 30m,2018,6.2,53K
+tt5208252,338,Operation Finale,2h 2m,2018,6.6,53K
+tt5918982,339,Possessor,1h 43m,2020,6.5,52K
+tt2837574,340,The Old Man & the Gun,1h 33m,2018,6.7,52K
+tt6212478,341,American Animals,1h 56m,2018,7.0,52K
+tt9354842,342,To All the Boys: P.S. I Still Love You,1h 41m,2020,6.1,52K
+tt5117670,343,Peter Rabbit,1h 35m,2018,6.6,52K
+tt1003934,344,Countdown,1h 30m,2019,5.4,51K
+tt8522006,345,Happiest Season,1h 42m,2020,6.6,51K
+tt5397194,346,Anon,1h 40m,2018,6.1,51K
+tt1053017,347,The Call,1h 52m,2020,7.1,51K
+tt5774450,348,Summer of 84,1h 45m,2018,6.7,51K
+tt3361792,349,Tolkien,1h 52m,2019,6.8,50K
+tt0805647,350,The Witches,1h 46m,2020,5.4,50K
+tt7533152,351,The Boy Who Harnessed the Wind,1h 53m,2019,7.6,50K
+tt7431594,352,Race 3,2h 40m,2018,1.9,50K
+tt9900782,353,Kaithi,2h 25m,2019,8.4,50K
+tt2235695,354,Rebecca,2h 3m,2020,6.0,50K
+tt9619798,355,The Wrong Missy,1h 30m,2020,5.8,49K
+tt1620680,356,A Wrinkle in Time,1h 49m,2018,4.3,49K
+tt6803046,357,The Vast of Night,1h 31m,2019,6.7,49K
+tt6476140,358,Serenity,1h 46m,2019,5.4,49K
+tt5797184,359,Escape from Pretoria,1h 46m,2020,6.8,49K
+tt6781982,360,Night School,1h 51m,2018,5.6,49K
+tt1620981,361,The Addams Family,1h 26m,2019,5.8,48K
+tt1274959,362,Host,57m,2020,6.5,48K
+tt4537896,363,White Boy Rick,1h 51m,2018,6.5,48K
+tt5867314,364,The Empty Man,2h 17m,2020,6.2,47K
+tt8108202,365,Stree,2h 8m,2018,7.5,47K
+tt3833480,366,The Outpost,2h 3m,2019,6.8,47K
+tt9683478,367,The Half of It,1h 44m,2020,6.9,46K
+tt2395469,368,Gully Boy,2h 34m,2019,7.9,46K
+tt1478839,369,The Art of Racing in the Rain,1h 49m,2019,7.6,46K
+tt6324278,370,Abominable,1h 37m,2019,7.0,46K
+tt7008872,371,Boy Erased,1h 55m,2018,6.9,46K
+tt7212754,372,Ludo,2h 30m,2020,7.6,46K
+tt8201170,373,The Perfect Date,1h 29m,2019,5.8,46K
+tt8206668,374,Bad Education,1h 48m,2019,7.1,45K
+tt1833116,375,The Informer,1h 53m,2019,6.6,45K
+tt6195094,376,Incident in a Ghostland,1h 31m,2018,6.4,45K
+tt9016974,377,Synchronic,1h 42m,2019,6.2,45K
+tt6182908,378,Smallfoot,1h 36m,2018,6.6,45K
+tt6535880,379,Haunt,1h 32m,2019,6.3,45K
+tt4154916,380,Replicas,1h 47m,2018,5.5,45K
+tt4827558,381,High Life,1h 53m,2018,5.7,44K
+tt8983202,382,Kabir Singh,2h 53m,2019,7.0,44K
+tt7664504,383,Three Identical Strangers,1h 36m,2018,7.6,44K
+tt8781414,384,Freaks,1h 45m,2018,6.7,44K
+tt5294518,385,Eli,1h 38m,2019,5.8,44K
+tt5001754,386,Braven,1h 34m,2018,5.9,44K
+tt7985648,387,The Legend of Tomiris,2h 36m,2019,6.3,44K
+tt1563742,388,Overboard,1h 52m,2018,6.0,44K
+tt7019842,389,96,2h 38m,2018,8.5,43K
+tt5198068,390,Wolfwalkers,1h 43m,2020,8.0,43K
+tt6938828,391,At Eternity's Gate,1h 51m,2018,6.9,43K
+tt3907584,392,All the Bright Places,1h 47m,2020,6.6,43K
+tt6107548,393,Late Night,1h 42m,2019,6.5,43K
+tt7339248,394,The Art of Self-Defense,1h 44m,2019,6.6,43K
+tt1036246,395,After We Collided,1h 45m,2020,5.1,43K
+tt5580266,396,The Hate U Give,2h 13m,2018,7.5,43K
+tt8151874,397,Honey Boy,1h 34m,2019,7.2,42K
+tt1000300,398,The Rental,1h 28m,2020,5.7,42K
+tt5057140,399,Hold the Dark,2h 5m,2018,5.6,42K
+tt3120280,400,Sierra Burgess Is a Loser,1h 45m,2018,5.7,42K
+tt8850222,401,Peninsula,1h 56m,2020,5.5,42K
+tt9784456,402,The Kissing Booth 2,2h 14m,2020,5.7,42K
+tt5690360,403,Slender Man,1h 33m,2018,3.3,42K
+tt4761916,404,Unfriended: Dark Web,1h 32m,2018,6.0,42K
+tt5619332,405,Life of the Party,1h 45m,2018,5.6,42K
+tt4669788,406,On the Basis of Sex,2h,2018,7.1,42K
+tt1255919,407,Holmes & Watson,1h 30m,2018,3.9,41K
+tt2639336,408,Greta,1h 38m,2018,6.1,41K
+tt6285944,409,The Banker,2h,2020,7.3,41K
+tt3385524,410,Stan & Ollie,1h 38m,2018,7.2,41K
+tt8633462,411,"Quo Vadis, Aida?",1h 41m,2020,8.0,41K
+tt6697582,412,Arif V 216,2h 5m,2018,6.9,41K
+tt7485048,413,Super 30,2h 34m,2019,7.9,41K
+tt6095472,414,The Angry Birds Movie 2,1h 37m,2019,6.4,41K
+tt8242084,415,My Spy,1h 39m,2020,6.4,41K
+tt6865690,416,The Professor,1h 30m,2018,6.7,40K
+tt1131714,417,Shiva Baby,1h 17m,2020,7.1,40K
+tt7725596,418,Badhaai Ho,2h 4m,2018,7.9,40K
+tt1032414,419,Article 15,2h 10m,2019,8.1,40K
+tt7905466,420,They Shall Not Grow Old,1h 39m,2018,8.2,40K
+tt1052109,421,The Forgotten Battle,2h 4m,2020,7.1,40K
+tt4068576,422,The Nightingale,2h 16m,2018,7.3,40K
+tt7280898,423,22 July,2h 23m,2018,6.8,40K
+tt4964788,424,Everybody Knows,2h 13m,2018,6.9,40K
+tt6269368,425,The Clovehitch Killer,1h 49m,2018,6.5,40K
+tt2076298,426,Ip Man 4: The Finale,1h 47m,2019,7.0,40K
+tt5935704,427,Padmaavat,2h 43m,2018,7.1,40K
+tt4073790,428,The Darkest Minds,1h 44m,2018,5.7,40K
+tt6141246,429,The Aeronauts,1h 40m,2019,6.6,40K
+tt5523010,430,The Nutcracker and the Four Realms,1h 39m,2018,5.6,40K
+tt4878482,431,Dumplin',1h 50m,2018,6.5,39K
+tt5144174,432,The Dry,1h 57m,2020,6.8,39K
+tt7946422,433,Prospect,1h 40m,2018,6.3,39K
+tt1285009,434,The Strangers: Prey at Night,1h 25m,2018,5.3,39K
+tt1464763,435,Mute,2h 6m,2018,5.5,39K
+tt4799066,436,Midnight Sun,1h 31m,2018,6.6,39K
+tt8361028,437,Cam,1h 34m,2018,5.9,39K
+tt9606374,438,On the Rocks,1h 36m,2020,6.4,39K
+tt7608028,439,The Open House,1h 34m,2018,3.3,39K
+tt1105764,440,The Christmas Chronicles: Part Two,1h 52m,2020,6.0,39K
+tt1072748,441,Winchester,1h 39m,2018,5.5,39K
+tt7605074,442,The Wandering Earth,2h 5m,2019,5.9,39K
+tt7430722,443,War,2h 31m,2019,6.6,39K
+tt9398640,444,Between Two Ferns: The Movie,1h 22m,2019,6.1,39K
+tt7547410,445,Dora and the Lost City of Gold,1h 42m,2019,6.1,38K
+tt9806192,446,I Lost My Body,1h 21m,2019,7.5,38K
+tt9086228,447,Gretel & Hansel,1h 27m,2020,5.5,38K
+tt8108274,448,Tanhaji: The Unsung Warrior,2h 15m,2020,7.5,38K
+tt8108268,449,The Tashkent Files,2h 14m,2019,8.1,38K
+tt9340860,450,Let Him Go,1h 53m,2020,6.7,38K
+tt7149730,451,The Silencing,1h 33m,2020,6.3,38K
+tt6513656,452,Escape Plan 2: Hades,1h 33m,2018,3.9,38K
+tt3256226,453,IO,1h 36m,2019,4.8,38K
+tt6218358,454,Calibre,1h 41m,2018,6.8,37K
+tt6802308,455,The 15:17 to Paris,1h 34m,2018,5.3,37K
+tt5501104,456,Border,1h 50m,2018,7.0,37K
+tt4357394,457,Tau,1h 37m,2018,5.8,37K
+tt8722346,458,Queen & Slim,2h 12m,2019,7.1,37K
+tt9477520,459,Asuran,2h 21m,2019,8.4,37K
+tt1298789,460,American Murder: The Family Next Door,1h 23m,2020,7.2,37K
+tt8652728,461,Waves,2h 15m,2019,7.5,36K
+tt7098658,462,Raazi,2h 18m,2018,7.7,36K
+tt1035062,463,Gunjan Saxena: The Kargil Girl,1h 52m,2020,5.5,36K
+tt6436726,464,7500,1h 33m,2019,6.3,36K
+tt6987770,465,Destination Wedding,1h 27m,2018,6.0,36K
+tt7961060,466,Dragon Ball Super: Broly,1h 40m,2018,7.7,36K
+tt1061292,467,One Night in Miami...,1h 54m,2020,7.1,36K
+tt3317234,468,"Game Over, Man!",1h 41m,2018,5.5,35K
+tt4648786,469,Harriet,2h 5m,2019,6.7,35K
+tt4986098,470,The Titan,1h 37m,2018,4.8,35K
+tt7711170,471,Alone,1h 38m,2020,6.2,35K
+tt6857166,472,Book Club,1h 44m,2018,6.1,34K
+tt4995776,473,The Red Sea Diving Resort,2h 9m,2019,6.6,34K
+tt7634968,474,What Men Want,1h 57m,2019,5.4,34K
+tt7242142,475,Blindspotting,1h 35m,2018,7.4,34K
+tt7748244,476,Mortal World,1h 47m,2018,7.6,34K
+tt9691136,477,Shadow in the Cloud,1h 23m,2020,5.0,34K
+tt8130968,478,Badla,1h 58m,2019,7.7,34K
+tt8954732,479,The Princess Switch,1h 41m,2018,6.1,34K
+tt7721800,480,Bharat,2h 30m,2019,4.7,33K
+tt3721964,481,Gringo,1h 51m,2018,6.1,33K
+tt7137380,482,Destroyer,2h 1m,2018,6.2,33K
+tt2762506,483,Bacurau,2h 11m,2019,7.3,33K
+tt9196192,484,Cuties,1h 36m,2020,3.6,33K
+tt7329656,485,47 Meters Down: Uncaged,1h 30m,2019,5.0,33K
+tt9354944,486,Jexi,1h 24m,2019,6.0,33K
+tt5929754,487,Wildlife,1h 45m,2018,6.8,33K
+tt7236034,488,I Want to Eat Your Pancreas,1h 49m,2018,8.1,33K
+tt6288124,489,"Don't Worry, He Won't Get Far on Foot",1h 54m,2018,6.8,33K
+tt1031014,490,Fatman,1h 40m,2020,5.9,33K
+tt6527426,491,Zero,2h 44m,2018,5.2,33K
+tt9072352,492,Relic,1h 29m,2020,6.0,33K
+tt9252468,493,Mosul,1h 41m,2019,7.1,33K
+tt3152592,494,Scoob!,1h 33m,2020,5.6,32K
+tt6116856,495,The Night Comes for Us,2h 1m,2018,6.9,32K
+tt8385474,496,A Dog's Journey,1h 49m,2019,7.4,32K
+tt6587640,497,Trolls World Tour,1h 31m,2020,6.1,32K
+tt2126357,498,Second Act,1h 43m,2018,5.8,32K
+tt3612126,499,The Grudge,1h 34m,2019,4.4,32K
+tt7218518,500,Pad Man,2h 20m,2018,7.8,32K
